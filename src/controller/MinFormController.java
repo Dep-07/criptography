@@ -9,6 +9,23 @@ import javafx.scene.layout.AnchorPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 
+/**
+ * encrypt
+ * get the first charactor from the key using substring method
+ * combined the plaintText and first charactor of the key
+ * swap the first value and last value of the combined plaintext
+ * get the charators of the swaped plainText on by one
+ * sign io to the integer
+ * add 15 to it
+ * assign to char variable
+ * assingn the char into string
+ * (final part same as yesterday)
+ *
+ * decrypt part opposite side of above
+
+ * */
+
+
 import java.io.IOException;
 
 public class MinFormController {
